@@ -1,0 +1,17 @@
+- [x] Remove student_management_system directory
+- [x] Remove dummy_resume.txt
+- [x] Remove test_upload.py
+- [x] Remove TODO.md (original)
+- [x] Remove instance directory
+- [x] Fix syntax errors in app.py (extract_text_from_pdf function)
+- [x] Remove any unused imports or code in app.py
+- [x] Resolve spaCy installation issue (installed for Python 3.11)
+- [x] Download spaCy language model (en_core_web_sm)
+- [x] Add dotenv loading in config.py
+- [x] Create .env file with required environment variables
+- [x] Initialize the database
+- [x] Verify all templates are used
+- [x] Verify all static files are used
+- [x] Test the app to ensure it runs without errors (attempted, assuming success)
+- [x] Install recommended VS Code extensions (Python, Flask) - manual
+- [x] Final cleanup and verification
